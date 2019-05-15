@@ -1,0 +1,13 @@
+C:\Users\Maksimka\source\repos\DirectoryOfPainting\DirectoryOfPainting\bin\Debug\DirectoryOfPainting.exe.config
+C:\Users\Maksimka\source\repos\DirectoryOfPainting\DirectoryOfPainting\bin\Debug\DirectoryOfPainting.exe
+C:\Users\Maksimka\source\repos\DirectoryOfPainting\DirectoryOfPainting\bin\Debug\DirectoryOfPainting.pdb
+C:\Users\Maksimka\source\repos\DirectoryOfPainting\DirectoryOfPainting\obj\Debug\DirectoryOfPainting.csprojAssemblyReference.cache
+C:\Users\Maksimka\source\repos\DirectoryOfPainting\DirectoryOfPainting\obj\Debug\DirectoryOfPainting.Artists.resources
+C:\Users\Maksimka\source\repos\DirectoryOfPainting\DirectoryOfPainting\obj\Debug\DirectoryOfPainting.Auctions.resources
+C:\Users\Maksimka\source\repos\DirectoryOfPainting\DirectoryOfPainting\obj\Debug\DirectoryOfPainting.MainForm.resources
+C:\Users\Maksimka\source\repos\DirectoryOfPainting\DirectoryOfPainting\obj\Debug\DirectoryOfPainting.Pictures.resources
+C:\Users\Maksimka\source\repos\DirectoryOfPainting\DirectoryOfPainting\obj\Debug\DirectoryOfPainting.Properties.Resources.resources
+C:\Users\Maksimka\source\repos\DirectoryOfPainting\DirectoryOfPainting\obj\Debug\DirectoryOfPainting.csproj.GenerateResource.cache
+C:\Users\Maksimka\source\repos\DirectoryOfPainting\DirectoryOfPainting\obj\Debug\DirectoryOfPainting.csproj.CoreCompileInputs.cache
+C:\Users\Maksimka\source\repos\DirectoryOfPainting\DirectoryOfPainting\obj\Debug\DirectoryOfPainting.exe
+C:\Users\Maksimka\source\repos\DirectoryOfPainting\DirectoryOfPainting\obj\Debug\DirectoryOfPainting.pdb
